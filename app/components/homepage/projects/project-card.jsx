@@ -61,7 +61,7 @@ function ProjectCard({ project }) {
             <span className="text-cyan-400">{' ' + project.description}</span>
             <span className="text-gray-400">,</span>
           </div>
-          <div><span className="text-gray-400">{`};`}</span></div>
+          <div><img src="" alt="" /></div>
         </code>
       </div>
     </div>
