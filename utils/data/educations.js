@@ -15,6 +15,6 @@ export const educations = [
     id: 3,
     title: "Matric In Computer Science",
     duration: "2016 - 2018",
-    institution: "Islamic Model High School",
+    institution: "Superior University, Lahore",
   }
 ]
