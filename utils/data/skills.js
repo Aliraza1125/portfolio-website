@@ -7,16 +7,34 @@ export const skillsData = [
   'Next JS',
   `Node JS`,
   `Express JS`,
+  'NestJS',
+  'Python',
   'Tailwind',
   'MongoDB',
   'MySQL',
+  'PostgreSQL',
   'Git',
   'Bootstrap',
   'Docker',
   'Figma',
-
-
-
+  'AWS',
+  'Firebase',
+  'Bubble',
+  'FlutterFlow',
+  'Adalo',
+  'WeWeb',
+  'Lovable',
+  'Xano',
+  'Zapier',
+  'OpenAI API',
+  'Claude API',
+  'LangChain',
+  'Pinecone',
+  'Supabase',
+  'Airtable',
+  'Make (Integromat)',
+  'n8n',
+  'Glide'
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
